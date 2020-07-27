@@ -1,5 +1,6 @@
 import math
 
+# Returns value of e raised to x of a given value
 def exp(x): 
     res = 0
     for i in range(100):
